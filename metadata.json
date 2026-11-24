@@ -1,0 +1,6 @@
+{
+  "name": "LocalPixel — Browser-Based Image & File Privacy Toolkit",
+  "description": "100% client-side image compression, PNG to WebP conversion, custom logo QR code generation, and social media meme cropping. Zero server uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
